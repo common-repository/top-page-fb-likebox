@@ -1,0 +1,24 @@
+/* Admin */
+.form_wrapper{
+background: #E9E9E9;
+padding: 20px;
+margin-top: 10px;
+}
+.enable_wrapper{
+background: #D6D4EA;
+}
+.tpfl_cus_updated{
+width: auto;
+margin-left: auto;
+margin-right: auto;
+border-left: 10px solid #32B924;
+background: rgb(225, 231, 225) none repeat scroll 0% 0%;
+}
+.tpfl_cus_updated p{
+text-align: left;
+color: #0B5471;
+font-size: 14px;
+font-weight: normal;
+padding: 10px;
+}
+/* Admin msg */
